@@ -1,0 +1,182 @@
+[
+    {
+      "Id": "H6edUt5",
+      "Picture": "https://i.ibb.co/555rpxd/i-Stock-921950686.jpg",
+      "Title": "Nutritional Supplements",
+      "Category": "Health",
+      "category_bg": "#AEC8FF",
+      "card_bg": "#D9E5FF",
+      "text_Color": "#3676FF",
+      "Description": "Boost your health and vitality with our range of Nutritional Supplements. Our carefully formulated supplements are designed to provide essential vitamins, minerals, and nutrients your body needs for optimal functioning. Whether you're looking to improve your immunity, enhance your energy levels, or support specific health goals, our supplements have you covered. Quality and safety are our top priorities, and our products are rigorously tested to ensure purity and effectiveness. Take a step towards a healthier life with Nutritional Supplements.",
+      "Price": "$220.00"
+    },
+    {
+      "Id": "edUca7t1oN_3",
+      "Picture": "https://i.ibb.co/4NdzSqz/download-2.jpg",
+      "Title": "Support Education",
+      "Category": "Education",
+      "category_bg": "#FFC3C5",
+      "card_bg": "#FFE3E4",
+      "text_Color": "#FF444A",
+      "Description": "Join us in supporting education for all. Your support helps us provide scholarships, educational resources, and mentorship programs to students from underserved communities. Education is the key to empowerment and social change. With your support, we can make quality education accessible to those who need it most. Be a part of the movement for better education. Support Education today.",
+      "Price": "$260.00"
+    },
+    {
+      "Id": "F00d_2",
+      "Picture": "https://i.ibb.co/d51pdrG/Prospect-HP-Range-Fruit-Veg-Boxe-swaps-smlr.jpg",
+      "Title": "Organic Produce Box",
+      "Category": "Food",
+      "category_bg": "#FDD2C4",
+      "card_bg": "#FEEAE3",
+      "text_Color": "#F87147",
+      "Description": "Embrace the freshness of nature with our Organic Produce Box. We bring the farm to your doorstep with a curated selection of organic fruits and vegetables. Our produce is grown without synthetic pesticides or chemicals, ensuring the highest quality and flavor. By choosing organic, you support sustainable agriculture and prioritize your health. Experience the difference of pure, unadulterated goodness with our Organic Produce Box.",
+      "Price": "$280.00"
+    },
+    {
+      "Id": "cLoTh1nG_02",
+      "Picture": "https://i.ibb.co/XfPYFm7/shutterstock-1733375798.webp",
+      "Title": "Donate Clothes for Charity",
+      "Category": "Clothing",
+      "category_bg": "#D4ECC1",
+      "card_bg": "#EBF6E2",
+      "text_Color": "#79C23F",
+      "Description": "Make a meaningful impact by donating clothes to our Clothing Charity Program. Your gently used clothing items can provide much-needed assistance to individuals and families facing adversity. We collect and distribute clothing to charitable organizations and communities, ensuring that those in need have access to clean and wearable attire. Your donation can make a significant difference in improving lives. Join us in spreading warmth and hope through Donate Clothes for Charity.",
+      "Price": "$240.00"
+    },
+    {
+      "Id": "Hhe3i2s",
+      "Picture": "https://i.ibb.co/7WvV270/Easy-Healthy-Snacks-en65ab5213130c9862172ac11435f055d9-en38b28edc7b2830a46f6e00bfeceeb1b6.jpg",
+      "Title": "Healthy Snacks",
+      "Category": "Health",
+      "category_bg": "#AEC8FF",
+      "card_bg": "#D9E5FF",
+      "text_Color": "#3676FF",
+      "Description": "Satisfy your cravings guilt-free with our selection of Healthy Snacks. We believe that delicious snacks can also be nutritious. Our snacks are carefully crafted to provide you with the right balance of flavor and health benefits. From protein-packed nuts to antioxidant-rich dried fruits, our snacks are a treat for your taste buds and your well-being. Whether you're on the go or relaxing at home, our Healthy Snacks are the perfect choice for a mindful munching experience.",
+      "Price": "$210.00"
+    },
+    {
+      "Id": "edUca7t1oN_1",
+      "Picture": "https://i.ibb.co/Z885xyF/Rectangle-4284-1.png",
+      "Title": "Good Education",
+      "Category": "Education",
+      "category_bg": "#FFC3C5",
+      "card_bg": "#FFE3E4",
+      "text_Color": "#FF444A",
+      "Description": "Investing in education is investing in the future. Our Good Education program is dedicated to providing quality education to underserved communities. We believe that everyone deserves access to knowledge and opportunities. With our program, we offer scholarships, educational resources, and mentorship to empower students to reach their full potential. Education is a powerful tool for social change, and your support can make a lasting impact. Join us in shaping a brighter future through Good Education.",
+      "Price": "$275.00"
+    },
+    {
+      "Id": "cLO2thInG_2",
+      "Picture": "https://i.ibb.co/v4vcFpR/335351-1600x1066-donate-your-prom-dress-1320616849.jpg",
+      "Title": "Donate Designer Dresses",
+      "Category": "Clothing",
+      "category_bg": "#D4ECC1",
+      "card_bg": "#EBF6E2",
+      "text_Color": "#79C23F",
+      "Description": "Make a charitable impact by donating your designer dresses to our Dress Donation Program. Your gently used designer dresses can bring joy and confidence to individuals in need. We collect and distribute these dresses to those who may not have access to such luxury items. Your donation can help someone feel special and beautiful. Join us in making a positive change through the act of giving. Donate your designer dresses today.",
+      "Price": "$290.00"
+    },
+    {
+        "Id": "edUca7t1oN_2",
+        "Picture": "https://i.ibb.co/R47wFdG/donateforchildeducationandprotection-62417583806f54462fd40cee-0-1648457633587.jpg",
+        "Title": "Donate for Education",
+        "Category": "Education",
+        "category_bg": "#FFC3C5",
+        "card_bg": "#FFE3E4",
+        "text_Color": "#FF444A",
+        "Description": "Make a difference by donating to our Education Fund. Your contribution directly supports students in need, providing them with access to quality education, resources, and opportunities. Education is a pathway to a brighter future, and your donation can help break down barriers and create opportunities for underserved communities. Join us in making education accessible to all. Donate today and be a part of the change.",
+        "Price": "$210.00"
+      },
+      {
+        "Id": "fOoD_3",
+        "Picture": "https://i.ibb.co/RBV01GQ/T107-1A.webp",
+        "Title": "Gourmet Food Basket",
+        "Category": "Food",
+        "category_bg": "#FDD2C4",
+        "card_bg": "#FEEAE3",
+        "text_Color": "#F87147",
+        "Description": "Indulge in the exquisite flavors of our Gourmet Food Basket. This carefully curated collection of culinary delights is a treat for food enthusiasts. From artisanal cheeses to delectable chocolates, our gourmet selection promises a journey of taste sensations. Whether you're gifting it to a loved one or treating yourself, our Gourmet Food Basket is a luxurious culinary experience that delights the senses and elevates your dining moments.",
+        "Price": "$255.00"
+      },
+      {
+        "Id": "f4iTne55",
+        "Picture": "https://i.ibb.co/qgKqXJY/0d7bbfed1ac64fd898fc53adcf8d158a.jpg",
+        "Title": "Fitness Equipment",
+        "Category": "Health",
+        "category_bg": "#AEC8FF",
+        "card_bg": "#D9E5FF",
+        "text_Color": "#3676FF",
+        "Description": "Achieve your fitness goals and stay active with our range of Fitness Equipment. Whether you prefer cardio workouts, strength training, or yoga, we have the right equipment to suit your needs. Our products are built to last and designed for ease of use. Elevate your fitness routine, improve your health, and boost your well-being with top-quality fitness gear. From treadmills to dumbbells, we've got it all. Invest in your health today and embark on a journey to a fitter, healthier you.",
+        "Price": "$299.00"
+      },
+      
+    {
+      "Id": "fOoD_1",
+      "Picture": "https://i.ibb.co/rm2FL6D/Rectangle-4284-4.png",
+      "Title": "Better Food for Everyone",
+      "Category": "Food",
+      "category_bg": "#FDD2C4",
+      "card_bg": "#FEEAE3",
+      "text_Color": "#F87147",
+      "Description": "Experience the joy of Better Food for Everyone. Our mission is to make wholesome and delicious food accessible to all. We source the finest ingredients to create nutritious and flavorful meals that satisfy your taste buds and nourish your body. From farm-fresh produce to gourmet delights, our food offerings cater to diverse palates. Join us in promoting a healthier and tastier world through Better Food for Everyone.",
+      "Price": "$200.00"
+    },
+    {
+      "Id": "cLoTh1nG_1",
+      "Picture": "https://i.ibb.co/ZdKhp6V/Rectangle-4284-2.png",
+      "Title": "Used Clothing Drive",
+      "Category": "Clothing",
+      "category_bg": "#D4ECC1",
+      "card_bg": "#EBF6E2",
+      "text_Color": "#79C23F",
+      "Description": "Support our Used Clothing Drive and make a difference in the lives of those in need. Your gently used clothing can provide warmth and comfort to individuals and families facing challenging circumstances. We collect and distribute clothing to shelters and communities, ensuring that everyone has access to clean and wearable clothing. Your contribution can bring a smile to someone's face and offer hope for a better tomorrow. Join us in spreading warmth and kindness through Used Clothing Drive.",
+      "Price": "$290.00"
+    },
+    {
+      "Id": "h3AlTh7",
+      "Picture": "https://i.ibb.co/RTL8j2Q/Rectangle-4284.png",
+      "Title": "Clean Water for Children",
+      "Category": "Health",
+      "category_bg": "#AEC8FF",
+      "card_bg": "#D9E5FF",
+      "text_Color": "#3676FF",
+      "Description": "Ensure the well-being of children with our Clean Water for Children initiative. Access to clean, safe drinking water is a fundamental right, and we are committed to making it a reality for every child. Our sustainable water purification systems provide clean water to communities in need, preventing waterborne diseases and improving overall health. Join us in this mission to provide a brighter future for children by supporting Clean Water for Children. Your contribution makes a world of difference. Together, we can make sure no child goes without clean water.",
+      "Price": "$250.00"
+    },
+
+      {
+        "Id": "cLoTh1nG_3",
+        "Picture": "https://i.ibb.co/FBtV8N1/where-to-donate-clothing-header.jpg",
+        "Title": "Support Clothing Drive",
+        "Category": "Clothing",
+        "category_bg": "#D4ECC1",
+        "card_bg": "#EBF6E2",
+        "text_Color": "#79C23F",
+        "Description": "Join hands with us to support our Clothing Drive initiative. Your support enables us to collect and distribute clothing to those facing challenging circumstances. Clean and wearable clothing can provide warmth and dignity to individuals in need. Your contribution can make a positive impact on their lives. Together, we can bring smiles and hope to those less fortunate. Support Clothing Drive today and be a part of the change.",
+        "Price": "$310.00"
+      },
+
+    {
+      "Id": "EdU2cAt10n_2",
+      "Picture": "https://i.ibb.co/7Ccwqs9/images.jpg",
+      "Title": "Language Learning Program",
+      "Category": "Education",
+      "category_bg": "#FFC3C5",
+      "card_bg": "#FFE3E4",
+      "text_Color": "#FF444A",
+      "Description": "Unlock new horizons by mastering a new language with our Language Learning Program. Learning a new language opens doors to new cultures, opportunities, and experiences. Our program offers comprehensive language courses that cater to all levels of learners. Whether you're a beginner or looking to refine your language skills, we have the right courses for you. With interactive lessons, expert instructors, and immersive experiences, you'll soon be speaking a new language fluently.",
+      "Price": "$295.00"
+    },
+    {
+      "Id": "F00d_4",
+      "Picture": "https://i.ibb.co/WKmq2Y1/images-1.jpg",
+      "Title": "Healthy Meal Subscription",
+      "Category": "Food",
+      "category_bg": "#FDD2C4",
+      "card_bg": "#FEEAE3",
+      "text_Color": "#F87147",
+      "Description": "Elevate your daily meals with our Healthy Meal Subscription. We believe that eating well should be convenient and delicious. With our subscription service, you'll receive a variety of nutritious and chef-prepared meals delivered to your doorstep. Say goodbye to meal planning and cooking stress, and say hello to a healthier, happier you. Each meal is thoughtfully crafted to nourish your body and delight your taste buds. Join the journey to better health with a Healthy Meal Subscription.",
+      "Price": "$290.00"
+    }
+  ]
+  
